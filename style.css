@@ -27,6 +27,29 @@ body{
 }
 
 .hero-text{
-    height: 600px;
+    height: 400px;
     display: flex;
+    background-color: #1f2937;
+    color: white;
+    align-items: center;
+    padding: 5%;
+    
+}
+
+
+.hero-main-text, .hero-secondary-text{
+    width: 50%;   
+}
+.hero-main-text{
+    font-size: 48px;
+    color: #f9faf8
+}
+
+.hero-secondary-text{
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.placeholder-image{
+    
 }
